@@ -9,7 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "kubernetes-fluent-client": "^3.4.0"
+    "kubernetes-fluent-client": "file:kubernetes-fluent-client-0.0.0-development.tgz"
   },
   "devDependencies": {
     "@types/jest": "^29.5.14",
